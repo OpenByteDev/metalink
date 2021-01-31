@@ -1,0 +1,11 @@
+[package]
+name = "metalink"
+version = "0.1.0"
+description = "Placeholder for a .metalink file parser"
+authors = ["OpenByte <development.openbyte@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde-xml-rs = "0.4"
+serde_derive = "1.0"
