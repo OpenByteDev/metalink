@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <file name="example.ext">
+        <size>14471447</size>
+        <url>ftp://ftp.example.com/example.ext</url>
+        <url>http://example.com/example.ext</url>
+        <metaurl mediatype="torrent">
+            http://example.com/example.ext.torrent</metaurl>
+    </file>
+</metalink>
