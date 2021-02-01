@@ -1,6 +1,20 @@
 #[macro_use]
 extern crate serde_derive;
 
+use chrono::{DateTime, Utc};
+use url::{Url};
+use std::str::FromStr;
+
+
+impl FromStr for Metalink4 {
+    type Err = serde_xml_rs::Error;
+
+    fn from_str(s: &str) -> Result<Self, Self::Err> {
+        serde_xml_rs::from_str(s)
+    }
+}
+
+
 #[derive(Debug, Serialize, Deserialize, Eq, PartialEq)]
 #[serde(rename = "metalink")]
 pub struct Metalink4 {
