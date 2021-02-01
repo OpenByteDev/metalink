@@ -1,6 +1,3 @@
-extern crate serde;
-extern crate serde_xml_rs;
-
 #[macro_use]
 extern crate serde_derive;
 
@@ -9,8 +6,8 @@ extern crate serde_derive;
 pub struct Metalink4 {
     pub generator: Option<String>,
     pub origin: Option<String>,
-    pub published: Option<String>, // Date
-    pub updated: Option<String>, // Date
+    pub published: Option<DateTime<Utc>>,
+    pub updated: Option<DateTime<Utc>>,
     #[serde(rename = "file")]
     pub files: Vec<File>
 }
@@ -24,18 +21,18 @@ pub struct File {
     pub hashes: Vec<Hash>,
     pub identity: Option<String>,
     pub language: Option<Vec<String>>,
-    pub logo: Option<String>, // uri
+    pub logo: Option<Url>, // uri
     #[serde(rename = "metaurl", default)]
-    pub meta_urls: Vec<MetaUrl>,
+    pub meta_urls: Vec<FileMetaUrl>,
     #[serde(rename = "os", default)]
     pub os: Vec<String>,
     #[serde(rename = "piece", default)]
-    pub pieces: Vec<Piece>, //?
+    pub pieces: Vec<Piece>,
     pub publisher: Option<Publisher>,
     pub signature: Option<String>,
     pub size: Option<u64>,
     #[serde(rename = "url", default)]
-    pub urls: Vec<Url>,
+    pub urls: Vec<FileUrl>,
     pub version: Option<String>
 }
 
@@ -55,7 +52,7 @@ pub struct Hash {
 }
 
 #[derive(Debug, Serialize, Deserialize, Eq, PartialEq)]
-pub struct MetaUrl {
+pub struct FileMetaUrl {
     pub priority: Option<u32>, // attr
     pub mediatype: String, // attr
     pub name: Option<String>, // attr
@@ -73,7 +70,7 @@ pub struct Origin {
 #[derive(Debug, Serialize, Deserialize, Eq, PartialEq)]
 pub struct Publisher {
     pub name: String, //attr
-    pub url: Option<String> //uri
+    pub url: Option<Url>
 }
 
 #[derive(Debug, Serialize, Deserialize, Eq, PartialEq)]
@@ -84,7 +81,7 @@ pub struct Signature {
 }
 
 #[derive(Debug, Serialize, Deserialize, Eq, PartialEq)]
-pub struct Url {
+pub struct FileUrl {
     pub location: Option<String>, //attr
     pub priority: Option<u32>, //attr
     #[serde(rename = "$value")]
