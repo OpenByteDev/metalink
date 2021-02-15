@@ -1,6 +1,6 @@
 [package]
 name = "metalink"
-version = "0.1.0"
+version = "0.2.0"
 description = "A Metalink 4.0 parser"
 authors = ["OpenByte <development.openbyte@gmail.com>"]
 homepage = "https://github.com/OpenByteDev/metalink"
