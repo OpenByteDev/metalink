@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <generator>MirrorBrain/2.18.0</generator>
+  <origin dynamic="true">http://openoffice.mirrorbrain.org/stable/timestamp.txt.meta4</origin>
+  <published>2021-02-03T19:46:48Z</published>
+  <publisher>
+    <name>OpenOffice.org - the free and open productivity suite</name>
+    <url>http://www.openoffice.org/</url>
+  </publisher>
+
+  <file name="timestamp.txt">
+    <size>11</size>
+
+    <!-- <mtime>1315387021</mtime> -->
+
+    <!-- internal id: 565 -->
+    <hash type="md5">74da4121dc1c0ed2a8e5b0741f824034</hash>
+    <hash type="sha-1">e89931b7aa0422594a6876f9bd77450cdb6353ec</hash>
+    <hash type="sha-256">71b6c1d53832f789a7f2435a7c629245fa3761ad8487775ebf4957330213a706</hash>
+    <pieces length="262144" type="sha-1">
+      <hash>e89931b7aa0422594a6876f9bd77450cdb6353ec</hash>
+    </pieces>
+
+
+    <!-- Found 14 mirrors: 0 in the same network prefix, 0 in the same autonomous system,
+         0 handling this country, 9 in the same region, 2 elsewhere -->
+
+    <!-- Mirrors in the same network (213.229.32.0/19): -->
+
+    <!-- Mirrors in the same AS (6830): -->
+
+    <!-- Mirrors which handle this country (AT): -->
+
+    <!-- Mirrors in the same continent (EU): -->
+    <url location="pl" priority="1">ftp://ftp.man.poznan.pl/pub/openoffice/stable/timestamp.txt</url>
+    <url location="de" priority="2">http://ftp.tu-chemnitz.de/pub/openoffice-extended/stable/timestamp.txt</url>
+    <url location="de" priority="3">http://ftp5.gwdg.de/pub/openoffice/stable/timestamp.txt</url>
+    <url location="de" priority="4">http://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.openoffice.org/stable/timestamp.txt</url>
+    <url location="de" priority="5">http://ftp3.gwdg.de/pub/openoffice/stable/timestamp.txt</url>
+    <url location="de" priority="6">http://ftp4.gwdg.de/pub/openoffice/stable/timestamp.txt</url>
+    <url location="nl" priority="7">http://ftp.snt.utwente.nl/pub/software/openoffice/stable/timestamp.txt</url>
+    <url location="nl" priority="8">http://ftp.nluug.nl/pub/office/openoffice/stable/timestamp.txt</url>
+    <url location="gb" priority="9">http://www.mirrorservice.org/sites/download.openoffice.org/stable/timestamp.txt</url>
+
+    <!-- Mirrors in the rest of the world: -->
+    <url location="tw" priority="10">http://ftp.mirror.tw/pub/openoffice/stable/timestamp.txt</url>
+    <url location="us" priority="11">http://openoffice.cs.utah.edu/stable/timestamp.txt</url>
+  </file>
+</metalink>

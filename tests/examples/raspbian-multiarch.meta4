@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <generator>MirrorBrain/2.18.1</generator>
+  <origin dynamic="true">http://raspbian.raspberrypi.org/multiarch/db/version.meta4</origin>
+  <published>2021-02-03T19:46:47Z</published>
+  <file name="version">
+    <size>31</size>
+
+    <!-- <mtime>1570741837</mtime> -->
+
+
+
+    <!-- Found 98 mirrors: 0 in the same network prefix, 0 in the same autonomous system,
+         3 handling this country, 28 in the same region, 12 elsewhere -->
+
+    <!-- Mirrors in the same network (unknown): -->
+
+    <!-- Mirrors in the same AS (unknown): -->
+
+    <!-- Mirrors which handle this country (AT): -->
+    <url location="at" priority="1">http://mirror.inode.at/raspbian/multiarch/db/version</url>
+    <url location="at" priority="2">http://ftp.tugraz.at/mirror/raspbian/multiarch/db/version</url>
+    <url location="at" priority="3">http://debian.anexia.at/raspbian/multiarch/db/version</url>
+
+    <!-- Mirrors in the same continent (EU): -->
+    <url location="cz" priority="4">http://ftp.fi.muni.cz/pub/linux/raspbian/multiarch/db/version</url>
+    <url location="cz" priority="5">http://mirror.dkm.cz/raspbian/multiarch/db/version</url>
+    <url location="hu" priority="6">http://quantum-mirror.hu/mirrors/pub/raspbian/multiarch/db/version</url>
+    <url location="sk" priority="7">http://mirror.vnet.sk/raspbian/multiarch/db/version</url>
+    <url location="de" priority="8">http://mirror1.hs-esslingen.de/pub/Mirrors/archive.raspbian.org/multiarch/db/version</url>
+    <url location="de" priority="9">http://mirror.pyratelan.org/raspbian/multiarch/db/version</url>
+    <url location="ru" priority="10">http://mirror.truenetwork.ru/raspbian/multiarch/db/version</url>
+    <url location="de" priority="11">http://mirror.de.leaseweb.net/raspbian/multiarch/db/version</url>
+    <url location="de" priority="12">http://mirror.netzwerge.de/raspbian/multiarch/db/version</url>
+    <url location="de" priority="13">http://mirror.netcologne.de/raspbian/multiarch/db/version</url>
+    <url location="de" priority="14">http://ftp.halifax.rwth-aachen.de/raspbian/multiarch/db/version</url>
+    <url location="dk" priority="15">http://mirrors.dotsrc.org/raspbian/multiarch/db/version</url>
+    <url location="lt" priority="16">http://raspbian.mirror.vu.lt/raspbian/multiarch/db/version</url>
+    <url location="nl" priority="17">http://mirror.nl.leaseweb.net/raspbian/multiarch/db/version</url>
+    <url location="nl" priority="18">http://mirror.serverius.net/raspbian/multiarch/db/version</url>
+    <url location="nl" priority="19">http://mirror.serverion.com/raspbian/multiarch/db/version</url>
+    <url location="nl" priority="20">http://mirror.ehv.weppel.nl/raspbian/multiarch/db/version</url>
+    <url location="md" priority="21">http://mirror.as43289.net/raspbian/multiarch/db/version</url>
+    <url location="by" priority="22">http://mirror.datacenter.by/pub/mirrors/archive.raspbian.org/multiarch/db/version</url>
+    <url location="fr" priority="23">http://mirrors.ircam.fr/pub/raspbian/multiarch/db/version</url>
+    <url location="fr" priority="24">http://ftp.igh.cnrs.fr/pub/os/linux/raspbian/multiarch/db/version</url>
+    <url location="fr" priority="25">http://ftp.crifo.org/raspbian/multiarch/db/version</url>
+    <url location="se" priority="26">http://ftp.acc.umu.se/mirror/raspbian/multiarch/db/version</url>
+    <url location="no" priority="27">http://raspbian.trivini.no/multiarch/db/version</url>
+    <url location="gb" priority="28">http://raspbian.mirror.uk.sargasso.net/multiarch/db/version</url>
+    <url location="gb" priority="29">http://www.mirrorservice.org/sites/archive.raspbian.org/multiarch/db/version</url>
+    <url location="ie" priority="30">http://ftp.heanet.ie/mirrors/raspbian/multiarch/db/version</url>
+    <url location="pt" priority="31">http://mirrors.fe.up.pt/raspbian/multiarch/db/version</url>
+
+    <!-- Mirrors in the rest of the world: -->
+    <url location="br" priority="32">http://raspbian.c3sl.ufpr.br/multiarch/db/version</url>
+    <url location="us" priority="33">http://mirror.us.leaseweb.net/raspbian/multiarch/db/version</url>
+    <url location="us" priority="34">http://mirrors.gigenet.com/raspbian/multiarch/db/version</url>
+    <url location="tw" priority="35">http://mirror.ossplanet.net/raspbian/multiarch/db/version</url>
+    <url location="us" priority="36">http://mirror.sjc02.svwh.net/raspbian/multiarch/db/version</url>
+    <url location="us" priority="37">http://raspbian.mirror.axinja.net/multiarch/db/version</url>
+    <url location="us" priority="38">http://raspbian.mirrors.lucidnetworks.net/multiarch/db/version</url>
+    <url location="jp" priority="39">http://ftp.tsukuba.wide.ad.jp/Linux/raspbian/multiarch/db/version</url>
+    <url location="us" priority="40">http://raspbian.phirephly.design/multiarch/db/version</url>
+    <url location="us" priority="41">http://mirror.os6.org/raspbian/multiarch/db/version</url>
+    <url location="au" priority="42">http://mirror.aarnet.edu.au/pub/raspbian/multiarch/db/version</url>
+    <url location="us" priority="43">http://mirror.web-ster.com/raspbian/multiarch/db/version</url>
+  </file>
+</metalink>

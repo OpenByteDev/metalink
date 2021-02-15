@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <generator>MirrorBrain/2.19.0</generator>
+  <origin dynamic="true">https://download.qt.io/official_releases/jom/jom_1_1_3.zip.meta4</origin>
+  <published>2021-02-03T19:48:11Z</published>
+  <file name="jom_1_1_3.zip">
+    <size>1213852</size>
+
+    <!-- <mtime>1544619898</mtime> -->
+
+
+
+    <!-- Found 20 mirrors: 0 in the same network prefix, 0 in the same autonomous system,
+         0 handling this country, 10 in the same region, 10 elsewhere -->
+
+    <!-- Mirrors in the same network (213.229.32.0/19): -->
+
+    <!-- Mirrors in the same AS (6830): -->
+
+    <!-- Mirrors which handle this country (AT): -->
+
+    <!-- Mirrors in the same continent (EU): -->
+    <url location="de" priority="1">http://ftp.fau.de/qtproject/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="dk" priority="2">http://mirrors.dotsrc.org/qtproject/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="de" priority="3">http://qt-mirror.dannhauer.de/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="se" priority="4">http://ftp.acc.umu.se/mirror/qt.io/qtproject/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="nl" priority="5">http://ftp1.nluug.nl/languages/qt/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="nl" priority="6">http://ftp2.nluug.nl/languages/qt/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="fi" priority="7">http://www.nic.funet.fi/pub/mirrors/download.qt-project.org/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="fi" priority="8">http://master.qt.io/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="gb" priority="9">http://www.mirrorservice.org/sites/download.qt-project.org/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="gb" priority="10">http://mirrors.ukfast.co.uk/sites/qt.io/official_releases/jom/jom_1_1_3.zip</url>
+
+    <!-- Mirrors in the rest of the world: -->
+    <url location="ke" priority="11">http://qtproject.mirror.liquidtelecom.com/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="us" priority="12">http://qt.mirror.constant.com/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="ca" priority="13">http://mirror.csclub.uwaterloo.ca/qtproject/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="cn" priority="14">http://mirror.bit.edu.cn/qtproject/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="cn" priority="15">http://mirrors.tuna.tsinghua.edu.cn/qt/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="cn" priority="16">http://mirrors.ustc.edu.cn/qtproject/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="jp" priority="17">http://ftp.jaist.ac.jp/pub/qtproject/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="jp" priority="18">http://ftp.yz.yamagata-u.ac.jp/pub/qtproject/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="us" priority="19">http://qt.mirrors.tds.net/qt/official_releases/jom/jom_1_1_3.zip</url>
+    <url location="us" priority="20">http://mirrors.ocf.berkeley.edu/qt/official_releases/jom/jom_1_1_3.zip</url>
+  </file>
+</metalink>

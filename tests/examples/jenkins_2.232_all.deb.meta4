@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <generator>MirrorBrain/2.18.1</generator>
+  <origin dynamic="true">http://mirrors.jenkins-ci.org/debian/jenkins_2.232_all.deb.meta4</origin>
+  <published>2021-02-03T19:52:14Z</published>
+  <file name="jenkins_2.232_all.deb">
+    <size>64603192</size>
+
+    <!-- <mtime>1587372128</mtime> -->
+
+    <!-- internal id: 78183 -->
+    <hash type="md5">bc58fa897c56bc0ddc4f7f2577669366</hash>
+    <hash type="sha-1">87abf1bd47d2d7596a8b651d265a2858cbdb8852</hash>
+    <hash type="sha-256">06d3569e213e324caf7cc6b8d52b09bd50c100384b387938ab0672aab87c63de</hash>
+    <pieces length="262144" type="sha-1">
+      <hash>cd82dc51e6b07d058ae9a3ca9a4c28050d536b21</hash>
+      <hash>abf3bd0b8399551540fd3ae91a8db1ae81abb015</hash>
+      <hash>6d878801b45f82f7ec2c155de271e7ae9174daf1</hash>
+      <hash>3eb0eb247721de4b4b593b46955c19c1dacfe9e9</hash>
+      <hash>a433a4137087beafa05cea12a8efb6547d550223</hash>
+      <hash>54296519e3d49e4b9d3a89235389657a334d1be6</hash>
+      <hash>15c8a7c84c04d780f2aa8789f82b8983cfae9faf</hash>
+      <hash>fe9494d66c6a2f370f1acee926d4db7052590da5</hash>
+      <hash>d60764e7de17ae3a0ad1a0d32af4f005e730c362</hash>
+      <hash>e47e666ab5f414b9b7c1da61d6287c5ab732f070</hash>
+      <hash>13ce8a8c5587fb2892addacc440058b6071e3272</hash>
+      <hash>49952fdbfef7a1e32ecabe3978e3c6c19b0b8949</hash>
+      <hash>5ecd626fad958f68a13528cce4c33a2268b600a1</hash>
+      <hash>b6e21770465384156e1101a6089a0e13fd00f8f2</hash>
+      <hash>cc373c610c0f015d9b8c91a8d9839b0e57c4de25</hash>
+      <hash>0943b031db47f177e7cc1fe89cf9afe07dc5be8f</hash>
+      <hash>a75470703339513a1029bb34aea6bafad8d761b5</hash>
+      <hash>a135fe738ea56c10f0a0152038a50d6c382206ca</hash>
+      <hash>ff3ceb8cb35ea83a3667435ae8e2ab7600dc3a13</hash>
+      <hash>11227e6f822c81dbbe99cdd824fe1ac3d52440a0</hash>
+      <hash>8dca79750e930617f26649b8d233bd52e8ec4933</hash>
+      <hash>b2bab23fa85b0ed6b6cd3a270cae1ddf388a34ba</hash>
+      <hash>6a612352a9f160ea0066aa49302981124a97d0bb</hash>
+      <hash>41795cf566a661b5e6056aa302a08ec44048e3f8</hash>
+      <hash>a3b9be060b1274004327ed4e5669e32d2853500b</hash>
+      <hash>bfc3c004213d646b9ba450461570ab894b979c6f</hash>
+      <hash>60522d9992156d0a932d75f31661f5ef60e27d9d</hash>
+      <hash>3e5c1840bfb961472d58d36251926b447f152906</hash>
+      <hash>abdc7c49ddd01a93ed1607ef2b6a925bb2811fbf</hash>
+      <hash>e7506b623e26f936edd951717a9906c4603a2d45</hash>
+      <hash>803bb7d91e8205f2eff963ca21cdc9bb4b2dfe97</hash>
+      <hash>0d010cb793bc6e1ed46a7559d4737fd781f2a846</hash>
+      <hash>4b13c282729cdb8efe442adc385fa49639a23634</hash>
+      <hash>e4d9611a5d1cb874de6d7fe5e8294e22fa7bc10a</hash>
+      <hash>ef1058c0593a229d6c18728d9732227718aa1ed2</hash>
+      <hash>3eacbf918042fc67c9b4aee516ef9ece40ff9379</hash>
+      <hash>ece6961d4dee050b9dd0baebdf8087bbac8e0d69</hash>
+      <hash>e848b5aebef1aa0c5305c39fd9ce8c0c5bab0189</hash>
+      <hash>a6cd531ddcb0ff138e626cb15571415bd38666b3</hash>
+      <hash>5f5149dd95899b6cc590b6cd4d83aab401acb31c</hash>
+      <hash>03e485d901d18f68f5657899c13990dc2038f2ef</hash>
+      <hash>b32d605ca3d420b3385fe94e191a20fb3d851fef</hash>
+      <hash>f1fb594556e99326c0a86fb248031f5e5393e171</hash>
+      <hash>245c85d9b38b79fe19078bbc646ba9e6376ce258</hash>
+      <hash>658cd3aba898abe6baf26ed87e6418aaf99f39bd</hash>
+      <hash>2f58b4c444bba194f624adbcaacaef4b90e52365</hash>
+      <hash>e275f5e016b6e6f870055fea7a5e486096a77f93</hash>
+      <hash>c17f9f158d9f5cf80f7cc52b5929898e714eb87d</hash>
+      <hash>c90d8e99fb89c96346e02561daad7037c7c40fbf</hash>
+      <hash>53770ec171c48119a00aa7764c7ed575e530cc3a</hash>
+      <hash>1e037f398785c3815153b7a9d2bbab0aaa607123</hash>
+      <hash>21a6713bbdf9d301d19bf5f6cd7ed96a30fef947</hash>
+      <hash>85c9befadb09da6d1b6811d9a5465cae2f8316a9</hash>
+      <hash>0fa1b448b92d0fba846fb75af40dfb70e4447777</hash>
+      <hash>bf3054bb8fb2d713be87af0cdbad6e9fc272518f</hash>
+      <hash>045e4bb6772bb34552e57041ff6768628ba31ea8</hash>
+      <hash>8bde9b62f578627070ba779384b5dca10a494ef8</hash>
+      <hash>534da3cd16fe748b9edcee6677dceb6980891890</hash>
+      <hash>3040c7d85498c40d0359460a244bb492a3b8d946</hash>
+      <hash>78564936e24da998137c84b6cabe27a2319b1090</hash>
+      <hash>9d5e621d38c9d695b202bd13afe53d45959010ac</hash>
+      <hash>784476043ea90e7face9d8cd4b01f6486e988557</hash>
+      <hash>1f30047cafc187af5f7e26188bb59ed705247175</hash>
+      <hash>ba38c0b14863fdaa8f44c90ff4b8f220ac1836c3</hash>
+      <hash>a63fdafde50a3bd63f3fd4ad590c8e2ee68cfdae</hash>
+      <hash>9345516c4a28ddd2df5381234e59503338def716</hash>
+      <hash>58ee7bd724699ea7886c851a5e5cda99fd804acf</hash>
+      <hash>f484414ef1c685720ecb456a16ee0fd1c79eef12</hash>
+      <hash>8cd516396acef2b4a27473b1fa23b20a1892d7c6</hash>
+      <hash>e65422909f23f89823a8c1671fa9735789734455</hash>
+      <hash>003fd555fb14566f6a49162d7eb88ff850652d26</hash>
+      <hash>7ea9c278a95acad8a205222f19cdbc99da1175b1</hash>
+      <hash>11f8bdfed410fdda57fcf22ed64bb8a3773c5f1f</hash>
+      <hash>7cae8c95959a463d497686b1eb2ab38d30d49649</hash>
+      <hash>835f388c1bdcdfcef093699a26d66c9acf42fa8b</hash>
+      <hash>d65c7352ec8f556c0982cc5073061d858e0212d4</hash>
+      <hash>59e6c3aa87c2cbfc5b3418982869aad1ed4ea091</hash>
+      <hash>7acf4c4cfcd6256a9c888f83d6b2d5f02a8740c5</hash>
+      <hash>1d1a35499546d3af8ce99a1c4341a05c9e3b42ec</hash>
+      <hash>d6258d843922c72c8ad87fdbbca0faf172291b9b</hash>
+      <hash>d8f1ce4c3efd220a5b57788dcad52816e94e0c32</hash>
+      <hash>2d16f2bb8de517c5b02124823c5f44995e1b821a</hash>
+      <hash>dc598af2dfbdb21f7acd249726c6ed2e9ad49d04</hash>
+      <hash>92925f317aece72df0f3e7b3524ae1bc44dfa5d3</hash>
+      <hash>49aa99d3f6bdc0964a8e012e081e2051a956a824</hash>
+      <hash>8c245ec35392a106a594b6744ae28b21d94df9dd</hash>
+      <hash>69b2d70c929b607e8baba7cbf64454debbdb0276</hash>
+      <hash>8da0e46096d16a4ffba02992cafdc5c678675f90</hash>
+      <hash>0197e00ffaf876049ee062dc3a662719d88e2293</hash>
+      <hash>40697e564f75c4ebf0f516c58dcae0ca3eff0b6e</hash>
+      <hash>fb3be1f5be52adf0a815effd910fe8cbfbdfa56c</hash>
+      <hash>fbb766d37b2d8f78702103922fabda9493b8007d</hash>
+      <hash>abb9fd6d255be2abef0e0924595c0e776e7b5822</hash>
+      <hash>c44ee9736499d0cf14ca5683d9135a3dbba3a8a9</hash>
+      <hash>63ebdf21da6615a17779c81772dc5f9a091f55f7</hash>
+      <hash>2f84723f19c5f9137abb67fddcd2b75373de66ab</hash>
+      <hash>20d59bc9b14be08b17e7dcc5a1b82f29cd50d2f6</hash>
+      <hash>5687e1423a0fe640c6ac39563619de64147d55f6</hash>
+      <hash>3328542260c18d1d4753b6b523b408d67c9eb3d8</hash>
+      <hash>f0b3a60edb8ae8a4a5fdb92f6c07a25629b65920</hash>
+      <hash>fea740d0ea68767baf061c442e7afd6b9f911beb</hash>
+      <hash>7ca09c622da20692d317c3797119d19ed7c50720</hash>
+      <hash>03e701da7af26b32796338a680fd3fd029731888</hash>
+      <hash>fbca665994a1141a5a2866f95ba44f5a46259de5</hash>
+      <hash>69256b9b4266b4ffff4d84213175e729377d0d0f</hash>
+      <hash>912fa117a800b120eadee8cffe2db4e1710ef292</hash>
+      <hash>a813372573dcde6bd3258a3e03c6e7a81e7cfcc7</hash>
+      <hash>df238c0d2d1a1e20b9f0e9717c4cce0cc95d60fa</hash>
+      <hash>f44f24287ca2129113784d9ff93fa0f551194041</hash>
+      <hash>b6cca1e00898d8f44bfd709694dedd8eee1597d6</hash>
+      <hash>1672773b7464ab3455fc2cbb6f5de40d663a767d</hash>
+      <hash>9b79dabaaf813dd6e87b4db2cab2e8aeb57b2a83</hash>
+      <hash>82cdf6aaaf549825e2d41e1589f1ecf072b1d594</hash>
+      <hash>bbba8580cf8003f2b421aeca21a0e092dced4f2c</hash>
+      <hash>2c06a3800adf80ca2ca42911da926e5804823fe9</hash>
+      <hash>7bc0dd6597ee3368884b621357b6ab71a0638b69</hash>
+      <hash>7d258adca7f1ea36b464ad7d024f27067fd9e4c1</hash>
+      <hash>704573c0e76b81f9074b8ba5230bf9fec89c3779</hash>
+      <hash>179035e4164dbe594732cb3790ae3aa38c4a2623</hash>
+      <hash>3d5b87df9a37790a2627db19d09847a277403dda</hash>
+      <hash>c00c14a40e7ec5cb63aef425f23f7cf1bb3350fe</hash>
+      <hash>bbf526c08cf139661a0b8fb7167c4cf1e4dfc4b4</hash>
+      <hash>1535248c01393f1c6591fadc58ef0c64e4b0ecde</hash>
+      <hash>155ab827defa7f38a84a8aebf8f4d92f26dfb79c</hash>
+      <hash>8147177eb3dcefd235f8a26664fe09faa844f24a</hash>
+      <hash>5cb6d2fcc0e6e214be6678f54326bedd75787ed3</hash>
+      <hash>354830866b6680e13f6e2b663956fbed9ff257a1</hash>
+      <hash>79388d74f67d463ee55f6709e9e1774c037c1afc</hash>
+      <hash>e0f474309637ab409d8860d8f66f1fe2a771130f</hash>
+      <hash>8f12c1dd54f0a1756c3dc6ff5852b50e0fcf6230</hash>
+      <hash>849f33ed8ea21c48564fe44b2a806cd233e06754</hash>
+      <hash>cfbf3cb783037a7fc0d05a4a00122a558bc3f441</hash>
+      <hash>e9f778fcbb9d0bc6411b541b94e7a1a0f06adf64</hash>
+      <hash>6bff5979e5d3b190cfd122c1dbe5a50e8ccb8d5f</hash>
+      <hash>cb73e2e68af8dfc88c82b487f727fec94d1dfa2f</hash>
+      <hash>c8b7b292c80257472d0b1ba8621c72179fb5e2f5</hash>
+      <hash>0bfdc7753c7afb5ac6513392d3d7acb346ab7c87</hash>
+      <hash>e2362ea6da0f7acc96ccf4719c9c332af602ceec</hash>
+      <hash>43b9f2564a7c696c9933f6c6bfa0b7b4d58ed88c</hash>
+      <hash>47766e83adf8cb59c81fe67f15dd07482dceeeee</hash>
+      <hash>22f59b43205c1105c12efb3a79e38330324c9e34</hash>
+      <hash>6ae0a3d52902c6845c9af07322c44385315f3517</hash>
+      <hash>ad89bd524039c99eab97656686453546395735a5</hash>
+      <hash>61f2853b5090727ce92ccd1273c39c2d706e41cd</hash>
+      <hash>97060fefeb900f0fea02d6e153fc8b9bb8c5ec0d</hash>
+      <hash>7f0a4516ef55397d97f6c4669e1effc92fe98251</hash>
+      <hash>a16c812c4c4cb2c1ceeb419f52683e4a5adca43a</hash>
+      <hash>e209c57659d043aabc8513826d55d701788dd080</hash>
+      <hash>5838878e0f01f6e1acb19b1dde0610d060387cdd</hash>
+      <hash>7460a116e222433e3f15776daa056cde07de335f</hash>
+      <hash>b7c9ea4e78a1c6de1f338574cbaa91e2cc7cad21</hash>
+      <hash>42515801beea6a46d35ab4411abfec7aa660a1b7</hash>
+      <hash>b0a6187eb2f7bcd5e3f230c0f2d097a4cd4ab40e</hash>
+      <hash>d81bb4fe85ca45cf8f2f25a5c59c5115ec1fed57</hash>
+      <hash>33bc121e7a52bd616ebd26bf62536f01dcd6ab69</hash>
+      <hash>90e0c11c42903b912fc7c4b8928fffe8772cbffd</hash>
+      <hash>2a5e4ece8ac9895f08ba5937fb8e4a03bcc467e0</hash>
+      <hash>86aa0192a2984fe3764052bd6561811cc183c2ed</hash>
+      <hash>5e7e815591f262143090c0f87877d1a6832b9e44</hash>
+      <hash>4acc018b794937cd41db37a1a558802e14f6dc55</hash>
+      <hash>aeea5fd84d5ae6126b02b42669770f462f178ddc</hash>
+      <hash>c741f270ee1b8578426082de91548931064c4831</hash>
+      <hash>87c8c962d0d919d44fb13a8b1568c133984b3803</hash>
+      <hash>c07dda60d39a33bef78ee33a8c1acc497b2fa01a</hash>
+      <hash>69d35b4df03d5d81bc5c271bd88bc0b79257ddf7</hash>
+      <hash>05360d42071fbdb38bafdc712869cbd0ea223550</hash>
+      <hash>a6a75e91629c1038c12014a9b1c7d2d495ee6176</hash>
+      <hash>37ef0721cd14302b44c86c12e261b1a420f08f20</hash>
+      <hash>94b320b245daf17ff7b06286bc704a9f9d70e538</hash>
+      <hash>42f743d32d2bb5be7f8238c92a154f0d569dff0b</hash>
+      <hash>e2ef6875b58c22d72c9c1b9b9d106c38b946c0fb</hash>
+      <hash>b2a26de31dd657b4570d0830a000f017515d73b4</hash>
+      <hash>ee77a1c6bd09007132acd094707c2e513f19c81b</hash>
+      <hash>e9125748e3424fc89c4f9de561bc8fae052c41ea</hash>
+      <hash>c6c704d502a31d8c60baaaf9844131d9bd7edc61</hash>
+      <hash>a52e9c6908b2a33e1319534be0152e03e1685931</hash>
+      <hash>81bc1cf3b4655c891815244b8d4294ae941d8418</hash>
+      <hash>54714be29dc750537a4c4af6f870e4d596f5d330</hash>
+      <hash>b193fea1555016f7a12a70e7c62d7662b5d9b0cd</hash>
+      <hash>f573471583c73a52cef63d1fc3a85159ad0f72ba</hash>
+      <hash>f30d3746b7c36f6fe1ad2223ae9cf73b7bf36695</hash>
+      <hash>579142ae2369da83c7beab9e4cf6cd824a54c8c7</hash>
+      <hash>8bb9f93855df1f1e952b69650caff843492a33fa</hash>
+      <hash>966386c124822fe758ec5897497c32e9539c1cb3</hash>
+      <hash>1d81729563804937299f192605d94ea6e4111a0b</hash>
+      <hash>66f8503659980892eadf76fa3c612b69e67c3fbf</hash>
+      <hash>f7edc705c02e3b0210be2b0bd88f8218d8c059b9</hash>
+      <hash>c34e0f0f3919b5ef247d22c4d0e43e567622fa85</hash>
+      <hash>a6fb6fc03cc32d78d24b60d002d87951d25a5bab</hash>
+      <hash>a1159820b1b5803e76c7d8263a8ddb5409a98ba9</hash>
+      <hash>d7c98b73a1f5f4cc300912284b4cb9922efabb2d</hash>
+      <hash>d696420ac8fd69d43943a6fc49e39b79a37207c5</hash>
+      <hash>94e3ab183784483a2af56bbdcd91ff3189264c53</hash>
+      <hash>05dcd2cb39a885cdb584d50b8d746a012a83983c</hash>
+      <hash>b8ef779023155bbc326f6cfcdd607d7eccf7d260</hash>
+      <hash>1ec014af10e57fb258c8ec67a76e1b32b0a7bad9</hash>
+      <hash>904abc6eb5b569417a0a8a3b1c0a3b41b8df8e75</hash>
+      <hash>9d456ac412e40780e07050d60cab39f18f90af03</hash>
+      <hash>05a8d596e46bfc1c4e8199fe37844b6f5b2c7295</hash>
+      <hash>465a83a7f35c3434d9885460a39bf30d845667ec</hash>
+      <hash>353e894f14d3bcd6039856cd36653365baefdd65</hash>
+      <hash>4c773a8ed2ecf15c748c2ffc43457cd33b25aa4e</hash>
+      <hash>d413c37f21da3d9577333ad918f675961d2b38fe</hash>
+      <hash>2e4c7b2a16021ee89c75f888c428b092327f54ae</hash>
+      <hash>88b4d2c40a8483a2b50d2d3ca4501284e55f8bd1</hash>
+      <hash>0a5cc8e3184ff2bc1c59a0f86049c04fe93fe429</hash>
+      <hash>0203e7d8473ac4b6363e2625c28e11d93ceb27da</hash>
+      <hash>738961ee2dbabd6e8b3a7daff122e5009b0223aa</hash>
+      <hash>a0788682e96c38bf9e3056cbb714bc0d7d11f269</hash>
+      <hash>58e3c2c7f669ed42cac2c77b2f8bf50afad99a9d</hash>
+      <hash>150e763bb0a15dbf32f3da63343a7ca14c429859</hash>
+      <hash>4295af57cb8daa26895722138ee9fb4283f752e5</hash>
+      <hash>ff7e5022c2e55d9557602a1c0cd1399cb7f1d5db</hash>
+      <hash>f914b897435a12ff7dd3f7737ebb8a2e5b3b1ab8</hash>
+      <hash>ac4d4293ba6644d9dd1a9f8fc2bb75d1c8b241fd</hash>
+      <hash>f1408d39fef9fcef3fa6e1adcdd50372d662ec41</hash>
+      <hash>a0718f3475b41078cc5bd8d9d1a3351d3a6b48e8</hash>
+      <hash>64324e86012e0f8dc0e8299a654742aa697f6b79</hash>
+      <hash>61c75f7f4f1c07f3c1e0074f2f8c34ae6fa0737a</hash>
+      <hash>ed2a3f2d2fd09d1d9e8970fa315c93cefa28ea08</hash>
+      <hash>562af55ca81a8e9d0fe9999f2567554cc4841ef7</hash>
+      <hash>7c91a5f6c24f274d40c083844b1f43b4fd7a6ce0</hash>
+      <hash>5baa32be42312b1283be1f0424527d23b73ba0ac</hash>
+      <hash>9199657f98eba2136e1fc5936383d0914bf3fdf8</hash>
+      <hash>acbe55cf181c3829acb9e25ee2209527a6ecae61</hash>
+      <hash>72ecadc8bd66a767b3b88c029109eb6196dcc34b</hash>
+      <hash>4b3242348a9064290f722c1ed0703d4e7846a162</hash>
+      <hash>290c75a86f2ff56f8e61ced025d41be06e7d0350</hash>
+      <hash>a31aad6405437a9623e11b07d7f3bf74276c0026</hash>
+      <hash>939833cadbcc3762bca46f7b74d2d0b486095709</hash>
+      <hash>fb7e9ea57cea9396442f935efc464546f24f5dbc</hash>
+      <hash>4fc168b571bdba96936a6295574c19da76803fdc</hash>
+      <hash>f4fe7b3558b99c278eec31e1126c00d39761d44e</hash>
+      <hash>f98d93e935c1fc4f08532942874bea07e27c93d1</hash>
+      <hash>20020de10ec8dbb299f0379d277de160bc05883c</hash>
+      <hash>3b9fd38bd23f437453f6fa7c8cdc1de3c6e5996b</hash>
+      <hash>3d748351fe4f4d5858861ca2bf02852992430ea2</hash>
+      <hash>fd5c6b88512576b5d17649acf4365fe83ff6278f</hash>
+      <hash>857f480f65ec6da1b8b752d054178851029e4aa4</hash>
+      <hash>54f80c62c45f53f59fc54410b9813877ecf8695b</hash>
+      <hash>0600f0b2abfbe3e787d4ad0e0a2355a32b07a6e1</hash>
+      <hash>f477df86de6bbdcd1ed6731ef8b29eaefadc7de2</hash>
+      <hash>402ba299df67976ec3ca3f60402fd886d34a306f</hash>
+      <hash>f2630b5b8f3d1276758f20399c841b74a17943f1</hash>
+      <hash>26f3196359e319446c984dca4e7b1db0cbce83ac</hash>
+      <hash>372fd8fc22a7b780dafdd944e7ec46ed4c83d59e</hash>
+      <hash>0d2329c71200c199135ba672d6225f4f0c6a48ed</hash>
+    </pieces>
+
+
+    <!-- Found 3 mirrors: 0 in the same network prefix, 0 in the same autonomous system,
+         0 handling this country, 0 in the same region, 1 elsewhere -->
+
+    <!-- Mirrors in the same network (unknown): -->
+
+    <!-- Mirrors in the same AS (unknown): -->
+
+    <!-- Mirrors which handle this country (AT): -->
+
+    <!-- Mirrors in the same continent (EU): -->
+
+    <!-- Mirrors in the rest of the world: -->
+    <url location="us" priority="1">http://ftp-chi.osuosl.org/pub/jenkins/debian/jenkins_2.232_all.deb</url>
+  </file>
+</metalink>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <generator>MirrorBrain/2.18.1</generator>
+  <origin dynamic="true">http://cdimage.kali.org/README.meta4</origin>
+  <published>2021-02-03T19:50:22Z</published>
+  <publisher>
+    <name>Offensive Security, Inc.</name>
+    <url>http://www.offensive-security.com</url>
+  </publisher>
+
+  <file name="README">
+    <size>519</size>
+
+    <!-- <mtime>1547474271</mtime> -->
+
+
+
+    <!-- Found 38 mirrors: 0 in the same network prefix, 0 in the same autonomous system,
+         1 handling this country, 15 in the same region, 8 elsewhere -->
+
+    <!-- Mirrors in the same network (unknown): -->
+
+    <!-- Mirrors in the same AS (unknown): -->
+
+    <!-- Mirrors which handle this country (AT): -->
+    <url location="us" priority="1">http://kali.download/kali-images/README</url>
+
+    <!-- Mirrors in the same continent (EU): -->
+    <url location="cz" priority="2">http://mirror.karneval.cz/pub/linux/kali-images/README</url>
+    <url location="de" priority="3">http://mirror.serverion.com/kali-images/README</url>
+    <url location="de" priority="4">http://mirror.pyratelan.org/kali-images/README</url>
+    <url location="dk" priority="5">http://mirrors.dotsrc.org/kali-images/README</url>
+    <url location="de" priority="6">http://ftp.halifax.rwth-aachen.de/kali-images/README</url>
+    <url location="se" priority="7">http://ftp.acc.umu.se/mirror/kali.org/kali-images/README</url>
+    <url location="be" priority="8">http://ftp.belnet.be/pub/kali/kali-images/README</url>
+    <url location="nl" priority="9">http://ftp2.nluug.nl/os/Linux/distr/kali-images/README</url>
+    <url location="nl" priority="10">http://ftp1.nluug.nl/os/Linux/distr/kali-images/README</url>
+    <url location="nl" priority="11">http://mirror.neostrada.nl/kali-images/README</url>
+    <url location="fr" priority="12">http://archive-4.kali.org/kali-images/README</url>
+    <url location="fr" priority="13">http://ftp.free.fr/pub/kali-images/README</url>
+    <url location="gb" priority="14">http://ftp.hands.com/kali-images/README</url>
+    <url location="ru" priority="15">http://mirror-1.truenetwork.ru/kali-images/README</url>
+    <url location="eu" priority="16">http://mirror.cspacehostings.com/kali-images/README</url>
+
+    <!-- Mirrors in the rest of the world: -->
+    <url location="am" priority="17">http://kali.itsec.am/kali-images/README</url>
+    <url location="ca" priority="18">http://kali.mirror.globo.tech/kali-images/README</url>
+    <url location="kr" priority="19">http://mirror.anigil.com/kali-images/README</url>
+    <url location="cl" priority="20">http://mirror.anquan.cl/kali-images/README</url>
+    <url location="jp" priority="21">http://ftp.jaist.ac.jp/pub/Linux/kali-images/README</url>
+    <url location="us" priority="22">http://mirrors.ocf.berkeley.edu/kali-images/README</url>
+    <url location="nz" priority="23">http://hlzmel.fsmg.org.nz/kali-images/README</url>
+    <url location="nz" priority="24">http://wlglam.fsmg.org.nz/kali-images/README</url>
+  </file>
+</metalink>

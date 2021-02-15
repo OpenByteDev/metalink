@@ -1,19 +1,19 @@
+use metalink::v4::Metalink;
 use std::fs;
-use serde_xml_rs::{from_str};
-use metalink::Metalink4;
+use strong_xml::XmlRead;
+use test_generator::test_resources;
 
-#[test]
-fn simple_from_rfc() -> Result<(), Box<dyn std::error::Error + 'static>> {
-    let s = fs::read_to_string("tests/examples/simple.meta4")?;
-    let metalink: Metalink4 = from_str(&s)?;
-    println!("{:#?}", metalink);
-    Ok(())
-}
-
-#[test]
-fn extended_from_rfc() -> Result<(), Box<dyn std::error::Error + 'static>> {
-    let s = fs::read_to_string("tests/examples/extended.meta4")?;
-    let metalink: Metalink4 = from_str(&s)?;
-    println!("{:#?}", metalink);
-    Ok(())
+#[test_resources("tests/examples/*.meta4")]
+fn parse_file(path: &str) {
+    let file_contents = fs::read_to_string(path).unwrap();
+    let res = Metalink::from_str(&file_contents);
+    match res {
+        Err(e) => {
+            println!("{:#?}", e);
+            assert!(false);
+        }
+        Ok(_metalink) => {
+            // println!("{:#?}", metalink);
+        }
+    }
 }
