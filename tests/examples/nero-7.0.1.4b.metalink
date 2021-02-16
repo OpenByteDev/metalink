@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/"
+  origin="http://www.nero.com/mmm/nero-7.0.1.4b.metalink"
+  type="static" pubdate="2005-12-22-22:04:25" 
+  refreshdate="2005-12-23-03:24:18">
+
+<publisher>
+  <name>Nero AG</name>
+  <url>http://www.nero.com/</url>
+</publisher>
+<copyright>Copyright 2006 Nero AG / Nero Inc.</copyright>
+<releasedate>2005-12-22</releasedate>
+<description>Nero Ultra Edition 7 - CD/DVD Authoring suite
+</description>
+<tags>Nero, CD, DVD, burning, authoring</tags>
+<identity>Nero Ultra Edition</identity>
+
+
+<files>
+  <file name="Nero-7.0.1.4b_eng.exe">
+    <version>7.0.1.4b</version>
+    <language>en-US</language>
+    <os>Windows-x86</os>    
+    <size>106797808</size>
+    <verification>
+      <hash type="md5">b86eaee3dc7f511c7b93cddb1f1bcaac</hash>
+    </verification>    
+    <resources>
+      <url type="bittorrent" preference="100">
+ftp://nero-mirror.hspeed.net/software/Nero7/Nero-7.0.1.4b_eng.exe.torrent
+      </url>
+      <url type="ftp" location="us" preference="80">
+ftp://ftp2.usw.nero.com/software/nero7/Nero-7.0.1.4b_eng.exe
+      </url>
+      <url type="ftp" location="de" preference="40">
+ftp://nero-mirror.com/software/Nero7/Nero-7.0.1.4b_eng.exe
+      </url>
+      <url type="ftp" location="de" preference="40">
+ftp://nero-mirror.hspeed.net/software/Nero7/Nero-7.0.1.4b_eng.exe
+      </url>
+      <url type="http" location="us" preference="80">
+http://httpdl2.usw.nero.com/software/nero7/Nero-7.0.1.4b_eng.exe
+      </url>
+    </resources>
+  </file>
+
+<file name="Nero-7.0.1.4b_chs.exe">
+    <version>7.0.1.4b</version>
+    <language>zh-Hans</language>
+    <os>Windows-x86</os>    
+    <size>112296416</size>
+    <verification>
+      <md5>cccd7f891ff81b30b9152479d2efcda2</md5>
+    </verification>    
+    <resources>
+      <url type="bittorrent" preference="100">
+ftp://nero-mirror.hspeed.net/software/Nero7/Nero-7.0.1.4b_chs.exe.torrent
+      </url>
+      <url type="ftp" location="de" preference="40">
+ftp://nero-mirror.hspeed.net/software/Nero7/Nero-7.0.1.4b_chs.exe
+      </url>
+    </resources>
+  </file>
+
+<file name="Nero-7.0.1.4b_deu.exe">
+    <identity>Nero Ultra Edition</identity>
+    <version>7.0.1.4b</version>
+    <language>de</language>
+    <os>Windows-x86</os>    
+    <size>112422536</size>
+    <verification>
+      <hash type="md5">44b04c2b0a49ec59da26706dfb969158</hash>
+    </verification>    
+    <resources>
+      <url type="bittorrent" preference="100">
+ftp://nero-mirror.hspeed.net/software/Nero7/Nero-7.0.1.4b_deu.exe.torrent
+      </url>
+      <url type="ftp" location="us" preference="80">
+ftp://ftp2.usw.nero.com/software/nero7/Nero-7.0.1.4b_deu.exe
+      </url>
+      <url type="http" location="us" preference="80">
+http://httpdl2.usw.nero.com/software/nero7/Nero-7.0.1.4b_deu.exe
+      </url>
+    </resources>
+  </file>
+
+</files> 
+</metalink>
